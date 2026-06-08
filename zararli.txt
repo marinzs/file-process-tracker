@@ -1,0 +1,10 @@
+# zararli.txt - Zararlı dosya hash veritabanı
+# Her satıra bir SHA256 hash yazılır
+# Test amaçlı örnek hash'ler
+
+a3f5c2d1e8b4907634521098fedcba9876543210abcdef1234567890abcdef12
+deadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef
+1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+aabbccddeeff00112233445566778899aabbccddeeff00112233445566778899
+b93a5489883912c94ab65777efadc8fbf6845cda314e2da7eb7338e8b2da7c52 
