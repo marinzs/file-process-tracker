@@ -1,5 +1,7 @@
 # File Process Monitor
 
+A lightweight security monitoring tool written in C that combines real-time file monitoring, 
+hash-based malware detection and basic network inspection.
 A simple file monitoring and analysis system developed in C.
 It operates on basic antivirus logic.
 
